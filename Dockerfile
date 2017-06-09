@@ -1,4 +1,4 @@
-FROM persapiens/firefox-maven-openjdk:53-3.5.0-8u131
+FROM persapiens/firefox-maven-oraclejdk:53-3.5.0-8u131
 MAINTAINER Marcos Alexandre de Melo Medeiros <marcosamm@gmail.com>
 
 ENV PINPOINT_VERSION 1.6.1

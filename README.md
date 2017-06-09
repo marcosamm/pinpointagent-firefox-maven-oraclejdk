@@ -1,2 +1,2 @@
 # pinpointagent-firefox-maven-openjdk
-Pinpoint agent, Firefox, Maven and OpenJDK Dokerfile
+Pinpoint agent, Firefox, Maven and Oracle JDK Dokerfile
