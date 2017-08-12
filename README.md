@@ -38,7 +38,6 @@ docker run -it --rm \
    -v /home/marcosamm/.m2/repository:/root/.m2/repository \
    marcosamm/pinpointagent-firefox-maven-oraclejdk \
    /bin/sh -c "cd /opt/app/; xvfb-run mvn clean install verify"
-   
 ```
 See another example using [Dockerfile](https://github.com/marcosamm/docker-pinpoint/tree/master/examples/joinfaces-example-with-selenium-test)
 
